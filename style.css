@@ -1,0 +1,76 @@
+.heading{
+   background-color:#20232A;
+}
+
+.heading h1{
+    color:#66FCF1;
+    padding-left:20px;
+    padding-top:10px;
+}
+
+.heading b{
+    color:white;
+    padding-left:20px;
+}
+
+.main{
+   background-color:rgb(50, 54, 63);
+}
+
+.header h1{
+    color:rgb(61, 216, 206);
+}
+
+.Introduction ul,.Introduction{
+    color:rgb(240, 228, 228);
+    padding-left:20px;
+}
+
+.websites{
+    color:rgb(240, 228, 228);
+    padding-left:10px;
+}
+
+.picture h1{
+    color:#66FCF1;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.picture h2{
+    color:rgb(240, 228, 228);
+    padding-left:20px;
+}
+
+.Tools{
+    color:rgb(240, 228, 228);
+    padding-left:20px;
+}
+
+.OutputWindow h1{
+    color:rgb(80, 231, 221);
+    padding-left:20px;
+}
+
+.OutputWindow ul{
+    color:rgb(240, 228, 228);
+}
+
+.Syntax h1{
+    color:rgb(80, 231, 221);
+    padding-left:20px;
+}
+
+.Syntax ul{
+    color:rgb(240, 228, 228);
+}
+
+.Socials h1{
+    color:rgb(80, 231, 221);
+    padding-left:50px;
+}
+
+.Socials img{
+    padding-left:90px;
+    padding-bottom:20px;
+}
